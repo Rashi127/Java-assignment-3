@@ -73,8 +73,7 @@ Otherwise print the number
 
 5. output
 
-<img width="611" height="131" alt="image" src="https://github.com/user-attachments/assets/24c44e83-e6a3-4a96-a9c5-5e372ec45a9d" />
-
+<img width="411" height="65" alt="image" src="https://github.com/user-attachments/assets/bdfac170-9eaa-4b6c-bb3e-02fb03364c7b" />
 
 
 6. output
